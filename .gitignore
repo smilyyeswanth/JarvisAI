@@ -4,4 +4,10 @@ __pycache__/
 .env
 .DS_Store
 ATS_Report.docx
+Tailored_Resume.docxvenv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+ATS_Report.docx
 Tailored_Resume.docx
